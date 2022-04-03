@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LogGuzo
+- 👋 Hi, I’m @LoGuzo
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
